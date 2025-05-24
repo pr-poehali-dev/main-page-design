@@ -63,7 +63,7 @@ const Index = () => {
         {/* Left Content */}
         <div className="lg:w-1/2 space-y-8">
           <div className="space-y-4">
-            <h2 className="text-5xl lg:text-6xl font-medium leading-tight font-mono">
+            <h2 className="text-5xl lg:text-6xl font-medium leading-tight font-aeroport">
               Социально
               <br />
               <span className="bg-green-400 px-2 py-1 text-black">
