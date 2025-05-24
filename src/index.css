@@ -1,20 +1,21 @@
 @font-face {
   font-family: "Aeroport";
-  src: url("http://cdn.poehali.dev/files/Aeroport-Light.woff2") format("woff2");
+  src: url("https://cdn.poehali.dev/files/Aeroport-Light.woff2") format("woff2");
   font-weight: 300;
   font-display: swap;
 }
 
 @font-face {
   font-family: "Aeroport";
-  src: url("http://cdn.poehali.dev/files/Aeroport.woff2") format("woff2");
+  src: url("https://cdn.poehali.dev/files/Aeroport.woff2") format("woff2");
   font-weight: 400;
   font-display: swap;
 }
 
 @font-face {
   font-family: "Aeroport";
-  src: url("http://cdn.poehali.dev/files/Aeroport-Medium.woff2") format("woff2");
+  src: url("https://cdn.poehali.dev/files/Aeroport-Medium.woff2")
+    format("woff2");
   font-weight: 500;
   font-display: swap;
 }
