@@ -3,7 +3,7 @@ import Icon from "@/components/ui/icon";
 
 const Index = () => {
   return (
-    <div className="min-h-screen bg-white font-sans">
+    <div className="min-h-screen bg-white font-aeroport">
       {/* Header */}
       <header className="flex items-center justify-between px-8 py-6">
         <div className="flex items-center">
@@ -63,7 +63,7 @@ const Index = () => {
         {/* Left Content */}
         <div className="lg:w-1/2 space-y-8">
           <div className="space-y-4">
-            <h2 className="text-5xl lg:text-6xl font-medium leading-tight font-aeroport">
+            <h2 className="text-5xl lg:text-6xl font-medium leading-tight">
               Социально
               <br />
               <span className="bg-green-400 px-2 py-1 text-black">
