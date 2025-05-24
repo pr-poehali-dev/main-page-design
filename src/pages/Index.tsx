@@ -14,34 +14,34 @@ const Index = () => {
           />
         </div>
 
-        <nav className="hidden md:flex items-center space-x-8">
+        <nav className="hidden md:flex flex-col items-start space-y-4 space-x-0">
           <a
             href="#"
-            className="text-gray-700 hover:text-black transition-colors"
+            className="text-gray-700 hover:text-black transition-colors text-lg"
           >
             Проекты
           </a>
           <a
             href="#"
-            className="text-gray-700 hover:text-black transition-colors"
+            className="text-gray-700 hover:text-black transition-colors text-lg"
           >
             Компания
           </a>
           <a
             href="#"
-            className="text-gray-700 hover:text-black transition-colors"
+            className="text-gray-700 hover:text-black transition-colors text-lg"
           >
             Новости
           </a>
           <a
             href="#"
-            className="text-gray-700 hover:text-black transition-colors"
+            className="text-gray-700 hover:text-black transition-colors text-lg"
           >
             Контакты
           </a>
           <a
             href="#"
-            className="text-gray-700 hover:text-black transition-colors"
+            className="text-gray-700 hover:text-black transition-colors text-lg"
           >
             Ещё +
           </a>
