@@ -7,9 +7,11 @@ const Index = () => {
       {/* Header */}
       <header className="flex items-center justify-between px-8 py-6">
         <div className="flex items-center">
-          <h1 className="text-4xl font-bold text-black tracking-tight">
-            СИТИ21
-          </h1>
+          <img
+            src="https://city21.ru/img/svg/logo.svg"
+            alt="СИТИ21"
+            className="h-12 w-auto"
+          />
         </div>
 
         <nav className="hidden md:flex items-center space-x-8">
