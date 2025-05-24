@@ -19,7 +19,8 @@ export default {
     },
     extend: {
       fontFamily: {
-        aeroport: ["Aeroport", "sans-serif"],
+        sans: ["Inter", "system-ui", "sans-serif"],
+        aeroport: ["Inter", "system-ui", "sans-serif"],
       },
       colors: {
         border: "hsl(var(--border))",
