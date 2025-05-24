@@ -10,38 +10,38 @@ const Index = () => {
           <img
             src="https://city21.ru/img/svg/logo.svg"
             alt="СИТИ21"
-            className="h-12 w-auto"
+            className="h-16 w-auto"
           />
         </div>
 
         <nav className="hidden md:flex flex-col items-start space-y-4 space-x-0">
           <a
             href="#"
-            className="text-gray-700 hover:text-black transition-colors text-lg"
+            className="text-gray-700 hover:text-black transition-colors text-base"
           >
             Проекты
           </a>
           <a
             href="#"
-            className="text-gray-700 hover:text-black transition-colors text-lg"
+            className="text-gray-700 hover:text-black transition-colors text-base"
           >
             Компания
           </a>
           <a
             href="#"
-            className="text-gray-700 hover:text-black transition-colors text-lg"
+            className="text-gray-700 hover:text-black transition-colors text-base"
           >
             Новости
           </a>
           <a
             href="#"
-            className="text-gray-700 hover:text-black transition-colors text-lg"
+            className="text-gray-700 hover:text-black transition-colors text-base"
           >
             Контакты
           </a>
           <a
             href="#"
-            className="text-gray-700 hover:text-black transition-colors text-lg"
+            className="text-gray-700 hover:text-black transition-colors text-base"
           >
             Ещё +
           </a>
@@ -63,7 +63,7 @@ const Index = () => {
         {/* Left Content */}
         <div className="lg:w-1/2 space-y-8">
           <div className="space-y-4">
-            <h2 className="text-5xl lg:text-6xl font-bold leading-tight">
+            <h2 className="text-5xl lg:text-6xl font-medium leading-tight font-mono">
               Социально
               <br />
               <span className="bg-green-400 px-2 py-1 text-black">
